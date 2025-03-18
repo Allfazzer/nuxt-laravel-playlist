@@ -34,9 +34,7 @@ Laravel is a PHP-based framework, so you need to understand the following:
 
 ---
 
-## Playlist Content
-
-### Total Length: 12Hours 40Minutes 47Seconds
+## Playlist Content ( 12Hours 40Minutes 47Seconds )
 
 ### 1. [Client and Server Model - Fast Tech Skills](https://www.youtube.com/watch?v=SwLdKeC8scE)
 
