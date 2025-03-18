@@ -1,4 +1,4 @@
-# Nuxt-Laravel Playlist
+# CMSC128: Nuxt-Laravel Playlist
 
 ## Overview
 
